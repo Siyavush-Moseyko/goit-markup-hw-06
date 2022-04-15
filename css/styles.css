@@ -646,6 +646,9 @@ background-color: var(--button-hover-color);
   resize: none;
   transition: border-color var(--transition);
 }
+.contact-form-message::placeholder {
+  color: rgba(117, 117, 117, 0.5);
+}
 .contact-form-checkbox {
   position: absolute;
   width: 1px;
