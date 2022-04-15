@@ -409,10 +409,11 @@ outline: none;
 }
 
 .footer-form{
-  display: inline-flex;
+  display: flex;
+  
 }
 .footer-input-wrapper {
-width: 350px;
+width: 358px;
 margin-right: 12px;
 }
 .footer-form-btn{
