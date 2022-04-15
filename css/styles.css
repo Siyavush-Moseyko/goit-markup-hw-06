@@ -679,6 +679,9 @@ background-color: var(--button-hover-color);
   background-size: contain;
   background-origin: border-box;
 }
+.contact-form-checkbox:focus + .checkbox-icon {
+  outline: auto;
+}
 .checkbox-link{
   color: var(--accent-color);
   margin-left: 4px;
